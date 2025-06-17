@@ -1,0 +1,5 @@
+elevenlabs
+pyaudio
+openai
+pillow
+langchain_community
