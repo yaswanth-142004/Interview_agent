@@ -3,3 +3,7 @@ pyaudio
 openai
 pillow
 langchain_community
+streamlit 
+pyaudio
+python-dotenv
+websockets
